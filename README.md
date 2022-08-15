@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @k0ff33k0t
-- 👀 I’m interested in ...
-- coding, cyber security
-- 🌱 I’m currently learning ...
-- python
+- Simple Python Port Scanner 
 
 
 <!---
